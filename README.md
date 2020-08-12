@@ -1,2 +1,2 @@
 # matrix_subtract
-Matrix subtraction program
+Matrix subtraction program in C language.
