@@ -1,2 +1,3 @@
 # matrix_subtract
-Matrix subtraction program in C language that perform subtraction of two matrices.
+Matrix subtraction.
+C program to accept two matrices.
