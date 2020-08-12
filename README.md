@@ -1,3 +1,2 @@
 # matrix_subtract
-Matrix subtraction.
-C program to accept two matrices as input from the user and their subtration result.
+C program to accept two matrices as input from the user and subtract the matrices.
