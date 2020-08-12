@@ -1,2 +1,2 @@
 # matrix_subtract
-Matrix subtraction.
+Matrix subtraction program
